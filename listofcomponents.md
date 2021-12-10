@@ -8,3 +8,23 @@ can click on the component name to get a more detailed description of each one a
 a basic video how how to insall some of the parts.
 
 [**Central Processing Unit**](cpu.md)
+
+[**Motherboard**](motherboard.md)
+
+[**Random Access Memory**](ram.md)
+
+[**Data Storage**](datastorage.md)
+
+[**Graphics Processing Unit**](gpu.md)
+
+[**Power Supply Unit**](psu.md)
+
+[**CPU Cooling**](cpucooling.md)
+
+[**Computer Case**](case.md)
+
+
+
+
+
+[**Home**](readme.md)
