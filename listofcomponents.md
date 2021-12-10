@@ -27,4 +27,4 @@ a basic video how how to insall some of the parts.
 
 
 
-[**Home**](Computer-Architecture/blob/main/README.md)
+[**Home**](README.md)
