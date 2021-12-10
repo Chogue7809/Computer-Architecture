@@ -9,4 +9,4 @@
 >This will be geared more toward people who would like to build their own computers to fits their digital needs. It will also be helpful for those looking for a new pc and wanting detailed information about what to look for when purchasing their new computer.
 
 
-[**List of Components**](listofcomponents.md) | [**My Builds**](mybuilds.md) |
+| [**List of Components**](listofcomponents.md) | [**My Builds**](mybuilds.md) |
