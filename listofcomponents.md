@@ -7,24 +7,24 @@ find the essential parts needed complete your build. I will give a general overv
 can click on the component name to get a more detailed description of each one as well as more in depth video and 
 a basic video how how to insall some of the parts.
 
-[**Central Processing Unit**](cpu.md)
+*[**Central Processing Unit**](cpu.md)
 
-[**Motherboard**](motherboard.md)
+*[**Motherboard**](motherboard.md)
 
-[**Random Access Memory**](ram.md)
+*[**Random Access Memory**](ram.md)
 
-[**Data Storage**](datastorage.md)
+*[**Data Storage**](datastorage.md)
 
-[**Graphics Processing Unit**](gpu.md)
+*[**Graphics Processing Unit**](gpu.md)
 
-[**Power Supply Unit**](psu.md)
+*[**Power Supply Unit**](psu.md)
 
-[**CPU Cooling**](cpucooling.md)
+*[**CPU Cooling**](cpucooling.md)
 
-[**Computer Case**](case.md)
-
-
+*[**Computer Case**](case.md)
 
 
 
-[**Home**](README.md)
+
+
+>[**Home**](README.md)
