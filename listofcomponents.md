@@ -7,4 +7,4 @@ find the essential parts needed complete your build. I will give a general overv
 can click on the component name to get a more detailed description of each one as well as more in depth video and 
 a basic video how how to insall some of the parts.
 
-[**Central Processing Unit**](https://github.com/Chogue7809/Computer-Architecture/blob/main/cpu.md)
+[**Central Processing Unit**](cpu.md)
