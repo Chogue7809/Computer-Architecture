@@ -11,6 +11,6 @@
 [![M.2 vs SSD vs HDD - M.2 NVMe SSD Explained](https://res.cloudinary.com/marcomontalbano/image/upload/v1639124132/video_to_markdown/images/youtube--YT3FK7vEMfk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YT3FK7vEMfk "M.2 vs SSD vs HDD - M.2 NVMe SSD Explained")
 
 
-
+[![How to Install and Format Your M.2 NVMe SSD | Inside Gaming With Seagate](https://res.cloudinary.com/marcomontalbano/image/upload/v1639124367/video_to_markdown/images/youtube--Pijxdu7BKF8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Pijxdu7BKF8 "How to Install and Format Your M.2 NVMe SSD | Inside Gaming With Seagate")
 
 | [**Home**](README.md) | [**List of Components**](listofcomponents.md) |
