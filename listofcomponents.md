@@ -19,7 +19,7 @@ a basic video how how to insall some of the parts.
 
 * [**Power Supply Unit**](psu.md)
 
-* [**CPU Cooling**](cpucooling.md)
+* [**CPU Cooling**](cooling.md)
 
 * [**Computer Case**](case.md)
 
