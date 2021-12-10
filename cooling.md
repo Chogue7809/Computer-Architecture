@@ -12,7 +12,7 @@
 
 [![How to INSTALL a CPU AIO Water Cooler](https://res.cloudinary.com/marcomontalbano/image/upload/v1639123354/video_to_markdown/images/youtube--R2fVNjuRaVE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=R2fVNjuRaVE "How to INSTALL a CPU AIO Water Cooler")
 
-[![Intel CPU Fan Removal/Install](https://res.cloudinary.com/marcomontalbano/image/upload/v1639123412/video_to_markdown/images/youtube--qzc2S6kVKvQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=qzc2S6kVKvQ cpu fan install "Intel CPU Fan Removal/Install")
+[![How To Install the CORSAIR A500 Dual Fan CPU Air Cooler ](https://res.cloudinary.com/marcomontalbano/image/upload/v1639123808/video_to_markdown/images/youtube--InkdYhJWLR8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=InkdYhJWLR8 "How To Install the CORSAIR A500 Dual Fan CPU Air Cooler ")
 
 
 
