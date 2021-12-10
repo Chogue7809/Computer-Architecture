@@ -8,7 +8,7 @@ can click on the component name to get a more detailed description of each one a
 a basic video how how to insall some of the parts.
 
 * [**Central Processing Unit**](cpu.md)
-<img src="https://image.shutterstock.com/image-vector/black-cpu-logo-on-white-600w-1506419414.jpg" width="200" height="200">
+<img src="https://e7.pngegg.com/pngimages/865/551/png-clipart-black-cpu-illustration-intel-central-processing-unit-computer-icons-android-free-microprocessor-icon-miscellaneous-text.png" width="100" height="100">
 
 * [**Motherboard**](motherboard.md)
 
