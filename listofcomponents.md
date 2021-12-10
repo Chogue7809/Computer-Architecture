@@ -25,6 +25,10 @@ a basic video how how to insall some of the parts.
 
 
 
+[![How to CORRECTLY choose your PC Parts](https://res.cloudinary.com/marcomontalbano/image/upload/v1639126021/video_to_markdown/images/youtube--j_DcWgxMZ3k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=j_DcWgxMZ3k  "How to CORRECTLY choose your PC Parts")
+
+
+
 
 
 >[**Home**](README.md)
