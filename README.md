@@ -1,6 +1,7 @@
 # Computer-Architecture
+## An in-depth guide
 
-## Curtis Hogue
+### Curtis Hogue
 
 In this tutorial we will be discussing Computer Architecture. Here we will talk about what parts come together to make digital applications possible. We also will be giving an in-depth guide of the components including description, different options, and placement of each part.
 
