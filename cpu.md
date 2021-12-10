@@ -6,4 +6,4 @@ The central processing unit or **CPU** for short is essential the brains of the 
 
 
 
-| [**Home**](README.md) | [**List of Components**](listofcomponents) |
+| [**Home**](README.md) | [**List of Components**](listofcomponents.md) |
