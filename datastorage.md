@@ -2,4 +2,4 @@
 
 
 
-<img src="" width="400" height="400">
+![](storage.jpg) width="400" height="400">
