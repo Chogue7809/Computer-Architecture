@@ -30,6 +30,9 @@ that the chip will fit into or making sure the case you choose will fit the size
 [![How to CORRECTLY choose your PC Parts](https://res.cloudinary.com/marcomontalbano/image/upload/v1639126021/video_to_markdown/images/youtube--j_DcWgxMZ3k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=j_DcWgxMZ3k  "How to CORRECTLY choose your PC Parts")
 
 
+[![How to Build a PC! Step-by-step (2020 Edition) | Robeytech](https://res.cloudinary.com/marcomontalbano/image/upload/v1639199702/video_to_markdown/images/youtube--MtALhv22Ltk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=MtALhv22Ltk "How to Build a PC! Step-by-step (2020 Edition) | Robeytech")
+
+
 
 
 
